@@ -1,0 +1,35 @@
+[
+    {
+      "inputs": [
+        {
+          "type": "address"
+        },
+        {
+          "type": "uint256"
+        },
+        {
+          "type": "address"
+        },
+        {
+          "type": "uint16"
+        },
+        {
+          "type": "uint256"
+        },
+        {
+          "type": "uint8"
+        },
+        {
+          "type": "bytes32"
+        },
+        {
+          "type": "bytes32"
+        }
+      ],
+      "name": "supplyWithPermit",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ]
+  
